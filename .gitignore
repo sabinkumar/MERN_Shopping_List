@@ -2,13 +2,12 @@ node_modules
 notes.txt
 /client/node_modules
 /client/.env
-/config
+
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
 
-/build
 
 # misc
 .DS_Store
